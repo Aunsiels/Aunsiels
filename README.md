@@ -23,7 +23,7 @@
 
 <br>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aunsiels&" alt="aunsiels" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aunsiels&" alt="aunsiels" /></p>
 
 <br><br>
 
